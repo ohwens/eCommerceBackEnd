@@ -27,5 +27,5 @@ mySQL, sequelize, express, dotenv
 no contribution at this time
 ## Questions:
 1. Please click the link for Github: <a href = "https://github.com/ohwens">My Github Site</a>
-2. Please click the link for Part 1 of the Demo: <a href = "https://drive.google.com/file/d/1n0_yo9orrDeuCHIqeCsQM0p3GW9HCfEQ/view">Video 1</a>
-3. Please click the link for Part 2 of the Demo: <a href = "https://drive.google.com/file/d/1tsnr4z_25oiCSitkfBZ3H47OhFBf_6uH/view">Video 2</a>
+2. Please click the link for Part 1 of the Demo: <a href = "https://drive.google.com/file/d/1z5AX1AAtmQwcfkYOaWh6L9CJt-18MZP4/view">Video 1</a>
+3. Please click the link for Part 2 of the Demo: <a href = "https://drive.google.com/file/d/1fu8DH6n26VL464xbOpH540OzKdyeZjN7/view">Video 2</a>
